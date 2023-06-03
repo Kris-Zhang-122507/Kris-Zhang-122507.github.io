@@ -25,14 +25,14 @@
  }
  .container header {
    font-size: 60px;
-   color: #fff;
+   color: rgb(14, 14, 14);
    font-weight: 600;
    text-align: center;
  }
  .container p {
    font-size: 16px;
    font-weight: 400;
-   color: #fff;
+   color: rgb(14, 14, 14);
    max-width: 550px;
    text-align: center;
  }
